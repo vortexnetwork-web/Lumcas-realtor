@@ -1,0 +1,6 @@
+{
+  "name": "LUMCAS Realtor & Properties Ltd",
+  "description": "LUMCAS Realtor & Properties Ltd — a modern real estate company helping clients navigate property opportunities and their next move in Benin City, Edo State.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
